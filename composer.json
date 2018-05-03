@@ -1,0 +1,13 @@
+{
+  "name": "alr/laravel-prestashop-connector",
+  "description": "A connector for laravel to prestashop",
+  "require-dev": {
+    "phpunit/phpunit": "5.7.*",
+    "illuminate/support": "5.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Alr\\Laravel\\Prestashop\\": "src/"
+    }
+  }
+}
